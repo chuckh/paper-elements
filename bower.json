@@ -31,7 +31,7 @@
     "paper-input": "PolymerElements/paper-input#^0.9.0",
     "paper-item": "PolymerElements/paper-item#master",
     "paper-material": "PolymerElements/paper-material#^0.9.0",
-    "paper-menu": "PolymerElements/paper-menu#^master",
+    "paper-menu": "PolymerElements/paper-menu#master",
     "paper-radio-button": "PolymerElements/paper-radio-button#^0.9.0",
     "paper-radio-group": "PolymerElements/paper-radio-group#master",
     "paper-ripple": "PolymerElements/paper-ripple#^0.9.0",
